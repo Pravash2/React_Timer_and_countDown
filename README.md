@@ -1,3 +1,7 @@
+![](https://github.com/Pravash2/React_Timer_and_countDown/blob/master/GIF/ezgif.com-video-to-gif%20(1).gif)
+![](https://github.com/Pravash2/React_Timer_and_countDown/blob/master/GIF/ezgif.com-video-to-gif.gif)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
