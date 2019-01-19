@@ -1,4 +1,7 @@
 ![](https://github.com/Pravash2/React_Timer_and_countDown/blob/master/GIF/ezgif.com-video-to-gif%20(1).gif)
+
+ Counter_Time by fixing Value it can loop to the allocated value
+
 ![](https://github.com/Pravash2/React_Timer_and_countDown/blob/master/GIF/ezgif.com-video-to-gif.gif)
 
 
